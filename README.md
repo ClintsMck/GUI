@@ -64,14 +64,6 @@ No installation required. Just download and run the executable.
 - The application may not display hidden files or system files within the directory.
 - Ensure that the directories selected have read and write permissions.
 
-## Support
-If you encounter any issues or have questions, please contact:
-
-- **Email:** support@example.com
-- **Phone:** +1-800-123-4567
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Distribution
 To run the application on a different computer, follow these steps:
