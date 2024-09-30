@@ -33,11 +33,11 @@ No installation required. Just download and run the executable.
    - By default, the database parameters are set to:
      ```json
      {
-         "dbname": "geosupport",
-         "user": "obpdb",
-         "password": "geosupport",
-         "host": "10.70.2.110",
-         "port": "5432"
+         "dbname": "xxxxxxxxx",
+         "user": "xxxxxxxxxxx",
+         "password": "xxxxxxxxxx",
+         "host": "xxxxxxxxxx",
+         "port": "xxxxxxxxxx"
      }
      ```
    - Modify these parameters in the "Database Parameters (Optional)" text box if needed.
